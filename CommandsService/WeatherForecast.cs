@@ -1,4 +1,4 @@
-namespace CommandService;
+namespace CommandsService;
 
 public class WeatherForecast
 {
